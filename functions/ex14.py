@@ -13,3 +13,4 @@ def d1():
 d1()
 print('a value after the function:',a)
 
+

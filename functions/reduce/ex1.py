@@ -7,3 +7,6 @@ def d1(a,b):
 x=reduce(d1,x)
 print(x)
 
+x=10
+y='hello'
+print(x*y)
