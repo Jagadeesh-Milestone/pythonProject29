@@ -30,5 +30,7 @@ import os
 #directory.
 
 #remove directory
-d=os.rmdir('python')
-print(d)
+#d=os.rmdir('python')
+#print(d)
+
+print(dir(os))
