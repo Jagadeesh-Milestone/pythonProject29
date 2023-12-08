@@ -14,3 +14,7 @@
 #date and time
 #regular expressions
 #libraries--numpy,pandas,matplotlib
+#mysql
+#fronend---html,css,javascript
+#django framework--frontend,backend,database
+
