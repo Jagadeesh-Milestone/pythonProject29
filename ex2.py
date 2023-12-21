@@ -1,14 +1,6 @@
-def d1():
-    def d2():
-        return 'hello world'
-    return d2()
-d=d1()
-print(d)
+l=[10,20,40,30,90]
+l.sort()
+print('second largest number is :',l[-2])
 
-def d3():
-    pass
-d3()
-def d4():
-    print('hello world')
-d4()
 
+import mysql.connector
